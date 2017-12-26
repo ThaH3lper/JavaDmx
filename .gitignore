@@ -3,3 +3,4 @@ C++/JavaDmxLib/
 *.bin
 *.project
 *.classpath
+!Java/native/JavaDmxLib.dll
